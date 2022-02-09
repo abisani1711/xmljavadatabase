@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <vehicle>
+        <!-- <vehicleId>1</vehicleId> -->
+        <brandName>"BMW"</brandName>
+        <seatingCapacity>7</seatingCapacity>
+        <numberOfAirbags>4</numberOfAirbags>
+    </vehicle>
+</vehicles>

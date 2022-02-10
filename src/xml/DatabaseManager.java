@@ -6,7 +6,7 @@ import java.util.*;
 
 public class DatabaseManager {
     public static final String username = "root";
-    public static final String password = "Bisani@1711";
+    public static final String password = "";
     public static final String url = "jdbc:mysql://localhost:3306/?user=root";
 
     public static void insertingInDatabase(List<Vehicle> vehicleList1) {
